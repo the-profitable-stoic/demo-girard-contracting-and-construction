@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Girard Contracting and Construction",
+    "phone": "+16515004390",
+    "category": "general contractor",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-heritage-craft",
+      "categoryGroup": "general-contractor",
+      "name": "Heritage Craft",
+      "recipeFile": "general-contractor/heritage-craft.astro",
+      "colors": {
+        "primary": "#4A5A6B",
+        "primaryDark": "#2c3640",
+        "primaryLight": "#c0c5cb",
+        "secondary": "#3f4d5b",
+        "accent": "#4A5A6B",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#3f4d5b",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "general-contractor/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fort Worth's Trusted Contractor",
+      "heroSubline": "Building and remodeling homes across the Metroplex. Quality craftsmanship, reliable service, and lasting results.",
+      "aboutTitle": "Building Fort Worth, One Project at a Time",
+      "aboutText": [
+        "Girard Contracting and Construction started with a simple goal: to provide homeowners in Fort Worth and surrounding areas with exceptional construction services they can depend on. Founded by lifelong Texan, [Founder Name], we’ve grown from a small team to a full-service contractor, always staying true to our local roots.",
+        "We believe in clear communication, meticulous attention to detail, and a commitment to exceeding expectations. Our approach is collaborative, working closely with you throughout every phase of your project, from initial design to final walkthrough. We treat every home as if it were our own.",
+        "We're proud to be a part of the Fort Worth community, supporting local businesses and organizations. We believe in giving back to the neighborhoods where we live and work, and strive to make a positive impact through our projects and our community involvement."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Fort Worth architecture, building codes, and climate considerations."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, detailed estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled tradespeople using premium materials for lasting results."
+        },
+        {
+          "title": "Project Management",
+          "description": "Dedicated project managers ensuring smooth execution and timely completion."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your home with our expert remodeling services.",
+        "description": "The kitchen is often the most important room in a Fort Worth home, and a well-designed kitchen can significantly enhance both its functionality and value. Girard Contracting and Construction specializes in creating custom kitchens that reflect your personal style and meet your specific needs. From simple updates like new countertops and cabinets to complete kitchen renovations, we handle every aspect of the project with precision and care. \n\nWe start with a detailed consultation to understand your vision, budget, and timeline. Our design team will then create a customized plan that maximizes space, improves workflow, and incorporates your desired features. We use only high-quality materials and employ skilled tradespeople to ensure lasting results. Whether you're dreaming of a modern, open-concept kitchen or a cozy, traditional space, we'll bring your vision to life. We handle everything from plumbing and electrical work to flooring and backsplash installation, ensuring a seamless and stress-free remodeling experience.",
+        "process": [
+          "Step 1: Initial Consultation: Discuss your needs, budget, and design preferences.",
+          "Step 2: Design & Planning: Develop a detailed plan with 3D renderings.",
+          "Step 3: Material Selection: Choose from a wide range of high-quality materials.",
+          "Step 4: Construction & Installation: Expert craftsmanship and meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetic appeal",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically ranges from 4 to 8 weeks. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary, it's often more convenient to relocate during a major kitchen remodel. We'll work with you to minimize disruption and maintain a clean and safe work environment."
+          },
+          {
+            "question": "What permits are required for a kitchen remodel in Fort Worth?",
+            "answer": "Permit requirements vary depending on the extent of the work. We'll handle all necessary permit applications and ensure that your project complies with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a luxurious and functional bathroom retreat with our expert remodeling services.",
+        "description": "Your bathroom should be a relaxing and functional space. Girard Contracting and Construction can transform your outdated bathroom into a modern oasis that meets your needs and reflects your personal style. Whether you're looking for a simple update or a complete bathroom renovation, we have the expertise to handle every aspect of the project. \n\nWe begin with a thorough consultation to understand your goals and preferences. Our design team will then create a customized plan that optimizes space, improves functionality, and incorporates your desired features, such as walk-in showers, soaking tubs, and custom vanities. We use only high-quality materials and employ skilled tradespeople to ensure lasting results. We handle everything from plumbing and electrical work to tiling and fixture installation, ensuring a seamless and stress-free remodeling experience. We understand the unique challenges presented by older Fort Worth homes, like those in the Fairmount neighborhood, and are adept at working within existing layouts to maximize space and functionality.",
+        "process": [
+          "Step 1: Consultation: Discuss your vision and budget.",
+          "Step 2: Design: Create a custom bathroom design.",
+          "Step 3: Material Selection: Choose your favorite fixtures and finishes.",
+          "Step 4: Installation: Professional installation for a flawless finish."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced relaxation",
+          "Modernized space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel typically take?",
+            "answer": "A typical bathroom remodel usually takes between 2 to 4 weeks, depending on the scope of the project. We will provide a detailed timeline before starting."
+          },
+          {
+            "question": "Do I need to obtain permits for a bathroom renovation?",
+            "answer": "Yes, permits are usually required for plumbing and electrical work. We will handle all the necessary permits for your project."
+          },
+          {
+            "question": "Can you work with small bathrooms?",
+            "answer": "Absolutely! We specialize in maximizing space and functionality in small bathrooms. We can suggest space-saving solutions and creative design ideas."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our reliable roofing repair and replacement services.",
+        "description": "Your roof is your home's first line of defense against the elements, especially the severe weather that can impact Fort Worth. Girard Contracting and Construction provides comprehensive roofing services, including repairs, replacements, and inspections. We understand the importance of a sound roof and are committed to providing durable, long-lasting solutions. \n\nWhether you're dealing with storm damage, leaks, or an aging roof, our team of experienced roofers will assess the situation and recommend the best course of action. We use only premium roofing materials from trusted manufacturers and adhere to the highest industry standards. We also understand the importance of proper ventilation and insulation to protect your home from energy loss and moisture damage. From asphalt shingles to metal roofing, we offer a wide range of options to suit your style and budget. We'll work with you to choose the right roofing system for your home and ensure a seamless installation process. We are experienced in dealing with insurance claims related to hail and wind damage, common occurrences in Tarrant County.",
+        "process": [
+          "Step 1: Roof Inspection: Thorough assessment of your roof's condition.",
+          "Step 2: Consultation: Discuss repair or replacement options.",
+          "Step 3: Material Selection: Choose the best roofing materials for your home.",
+          "Step 4: Installation: Professional installation by experienced roofers."
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after severe weather events. Regular inspections can help identify potential problems early and prevent costly repairs."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement can take anywhere from 1 to 3 days, depending on the size and complexity of the roof. We'll provide a detailed timeline before starting the project."
+          },
+          {
+            "question": "Do you offer financing options for roofing projects?",
+            "answer": "Yes, we offer flexible financing options to help you manage the cost of your roofing project. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Enhance your home's curb appeal and protection with our professional siding installation services.",
+        "description": "New siding can dramatically improve the look of your home while also providing added protection from the elements. Girard Contracting and Construction offers a wide range of siding options to suit your style and budget. Whether you prefer the classic look of wood siding, the durability of vinyl siding, or the modern appeal of fiber cement siding, we have the expertise to install it properly and efficiently. \n\nWe begin with a detailed consultation to understand your aesthetic preferences and functional requirements. Our team will then help you choose the right siding material and color to complement your home's architecture and neighborhood. We use only high-quality materials and employ skilled installers to ensure a seamless and long-lasting result. We also pay close attention to detail, ensuring proper insulation and weatherproofing to protect your home from moisture damage and energy loss. We understand the specific needs of Fort Worth homes, including the importance of siding that can withstand the Texas heat and occasional ice storms.",
+        "process": [
+          "Step 1: Consultation: Discuss your siding needs and preferences.",
+          "Step 2: Material Selection: Choose the perfect siding for your home.",
+          "Step 3: Preparation: Proper preparation for optimal adhesion and longevity.",
+          "Step 4: Installation: Professional and precise siding installation."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved insulation",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding installation take?",
+            "answer": "The duration of siding installation varies depending on the size of your home and the type of siding you choose. We'll provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "What are the benefits of different siding materials?",
+            "answer": "Each siding material offers unique benefits. Vinyl siding is affordable and low-maintenance, while fiber cement siding is durable and fire-resistant. We'll help you choose the best option for your needs."
+          },
+          {
+            "question": "Do you offer a warranty on your siding installation services?",
+            "answer": "Yes, we offer a comprehensive warranty on our siding installation services. We stand behind our workmanship and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Improve energy efficiency and enhance your home's beauty with our window replacement services.",
+        "description": "Replacing your old, drafty windows can significantly improve your home's energy efficiency and comfort. Girard Contracting and Construction offers a wide range of window styles and materials to suit your aesthetic preferences and budget. From energy-efficient vinyl windows to elegant wood windows, we have the expertise to install them properly and efficiently. \n\nWe begin with a thorough consultation to assess your needs and recommend the best window options for your home. Our team will then carefully remove your old windows and install the new ones with precision and attention to detail. We also ensure proper sealing and insulation to prevent drafts and energy loss. We understand the importance of choosing windows that can withstand the Texas heat and occasional severe weather. We're familiar with the architectural styles of various Fort Worth neighborhoods, from the craftsman bungalows in Arlington Heights to the ranch homes in Ridglea, and can help you select windows that complement your home's character.",
+        "process": [
+          "Step 1: Consultation: Discuss your window replacement needs.",
+          "Step 2: Window Selection: Choose the perfect windows for your home.",
+          "Step 3: Installation: Professional and precise window installation.",
+          "Step 4: Finishing Touches: Sealing and insulation for optimal performance."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Increased home value",
+          "Enhanced curb appeal",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How much can I save on energy bills with new windows?",
+            "answer": "The amount you can save on energy bills depends on the type of windows you choose and the climate in your area. Energy-efficient windows can significantly reduce energy loss and lower your monthly bills."
+          },
+          {
+            "question": "What are the different types of window materials?",
+            "answer": "Common window materials include vinyl, wood, aluminum, and fiberglass. Each material offers unique benefits in terms of durability, energy efficiency, and aesthetics. We can help you choose the best option for your needs."
+          },
+          {
+            "question": "Do you offer a warranty on your window replacement services?",
+            "answer": "Yes, we offer a comprehensive warranty on our window replacement services. We stand behind our workmanship and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "general-contractor-services",
+        "name": "General Contractor Services",
+        "shortDescription": "Comprehensive contractor services, handling every aspect of your project from start to finish.",
+        "description": "Girard Contracting and Construction is your trusted partner for all your general contracting needs in Fort Worth and the surrounding areas. We provide comprehensive services, managing every aspect of your project from initial planning and design to final completion. Whether you're building a new home, remodeling an existing space, or adding an addition, we have the expertise to handle it all. \n\nWe begin with a detailed consultation to understand your vision, budget, and timeline. Our team of experienced professionals will then develop a customized plan that meets your specific needs and exceeds your expectations. We handle all necessary permits and inspections, ensuring that your project complies with local building codes. We also coordinate with subcontractors and suppliers, managing the entire process to ensure a smooth and stress-free experience. We understand that every project is unique, and we're committed to providing personalized service and attention to detail. We have experience working on a variety of projects in Fort Worth, from restoring historic homes in the Southside to building modern residences in Alliance.",
+        "process": [
+          "Step 1: Consultation: Discuss your project goals and budget.",
+          "Step 2: Planning & Design: Develop a detailed plan and timeline.",
+          "Step 3: Permitting & Approvals: Obtain all necessary permits and approvals.",
+          "Step 4: Construction & Management: Oversee all aspects of the project."
+        ],
+        "benefits": [
+          "Stress-free project management",
+          "Expert craftsmanship",
+          "On-time completion",
+          "Budget-friendly solutions"
+        ],
+        "faq": [
+          {
+            "question": "What types of projects do you handle?",
+            "answer": "We handle a wide range of projects, including new home construction, remodeling, additions, and commercial construction. No project is too big or too small."
+          },
+          {
+            "question": "How do you ensure quality control?",
+            "answer": "We have a rigorous quality control process in place to ensure that every project meets our high standards. We conduct regular inspections and work closely with our subcontractors to ensure that all work is performed to the highest level of craftsmanship."
+          },
+          {
+            "question": "How do you handle unexpected issues?",
+            "answer": "We have a proactive approach to problem-solving and are prepared to handle any unexpected issues that may arise during the project. We'll communicate with you openly and honestly and work together to find the best solution."
+          }
+        ]
+      },
+      {
+        "slug": "home-additions",
+        "name": "Home Additions",
+        "shortDescription": "Expand your living space with our seamless and expertly crafted home addition services.",
+        "description": "Need more space in your Fort Worth home? Girard Contracting and Construction specializes in creating seamless and functional home additions that enhance your living space and increase your property value. Whether you're looking to add a new bedroom, expand your kitchen, or create a dedicated home office, we have the expertise to bring your vision to life. \n\nWe begin with a detailed consultation to understand your needs, budget, and design preferences. Our team will then develop a customized plan that integrates seamlessly with your existing home. We handle all necessary permits and inspections, ensuring that your project complies with local building codes. We also coordinate with subcontractors and suppliers, managing the entire process to ensure a smooth and stress-free experience. We understand the importance of creating an addition that not only meets your functional needs but also complements your home's architectural style. We have experience working on a variety of home styles in Fort Worth, from the historic homes in Fairmount to the suburban residences in Arlington Heights.",
+        "process": [
+          "Step 1: Consultation: Discuss your needs and vision for the addition.",
+          "Step 2: Design & Planning: Create a detailed plan and obtain permits.",
+          "Step 3: Construction: Build the addition with expert craftsmanship.",
+          "Step 4: Finishing Touches: Complete the project with seamless integration."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Enhanced property value",
+          "Customized design",
+          "Seamless integration"
+        ],
+        "faq": [
+          {
+            "question": "How long does a home addition typically take?",
+            "answer": "The duration of a home addition project varies depending on the size and complexity of the addition. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "What permits are required for a home addition in Fort Worth?",
+            "answer": "Permit requirements vary depending on the scope of the project. We'll handle all necessary permit applications and ensure that your project complies with local building codes."
+          },
+          {
+            "question": "How do you minimize disruption during construction?",
+            "answer": "We take every precaution to minimize disruption during construction, including maintaining a clean and safe work environment and communicating with you regularly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is proud to offer our comprehensive general contracting services to the residents and businesses of Dallas, Texas. From the historic neighborhoods filled with charming 1950s ranch-style homes to the bustling downtown core, we understand the unique architectural landscape of Dallas and tailor our services to meet your specific needs.\n\nWe specialize in renovations, remodels, and new construction projects, always keeping in mind the Dallas climate, with its characteristically hot and humid summers. Whether you're looking to update your kitchen, add an addition to your home, or build a new commercial space, Girard Contracting and Construction has the expertise and experience to deliver exceptional results. Our team is dedicated to providing quality craftsmanship, transparent communication, and on-time project completion.",
+        "localContext": "Dallas features a diverse range of architectural styles, with many homes in established neighborhoods dating back to the mid-20th century. The hot, humid summers require careful consideration of materials and construction techniques.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction extends its expert general contracting services to Plano, Texas. Known for its well-planned subdivisions developed in the 1980s and 90s, Plano presents unique opportunities for home renovations and expansions to meet the evolving needs of its residents.\n\nWe offer a full range of services, including kitchen and bathroom remodels, whole-house renovations, and new construction projects. Our team is well-versed in the construction styles prevalent in Plano and is committed to delivering high-quality workmanship and exceptional customer service. We understand the importance of energy efficiency and sustainable building practices, especially given the hot and humid summers that are typical of the Plano climate.",
+        "localContext": "Plano is characterized by its established suburban neighborhoods, many featuring homes built in the 1980s and 90s. The climate necessitates durable and energy-efficient building solutions.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is delighted to provide general contracting services to the rapidly growing city of Frisco, Texas. Characterized by newer construction from the 2000s to the present, Frisco offers exciting opportunities for modern and innovative building projects.\n\nWe specialize in new home construction, custom home designs, and contemporary remodels. Our team stays up-to-date with the latest building trends and technologies to deliver cutting-edge solutions that meet the needs of Frisco's discerning homeowners. We also understand the importance of energy efficiency and sustainable building practices, given the hot and humid Frisco summers. Girard Contracting and Construction is committed to providing exceptional quality and customer satisfaction.",
+        "localContext": "Frisco is known for its recent construction boom, featuring modern homes and master-planned communities. Energy efficiency and contemporary design are key considerations for building projects in Frisco.",
+        "nearbyAreas": [
+          "Little Elm",
+          "Prosper",
+          "McKinney"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction proudly serves the historic city of McKinney, Texas, offering a wide range of general contracting services. From the beautifully preserved homes in the historic downtown area to the newer residential developments, we understand the unique character of McKinney and tailor our services accordingly.\n\nWe specialize in historic renovations, home additions, and custom home building projects. Our team is experienced in working with the unique challenges and requirements of older homes and is committed to preserving the architectural integrity of McKinney's historic structures. We also provide new construction services with a focus on energy efficiency and sustainability, crucial given the hot and humid climate. Girard Contracting and Construction strives to provide exceptional craftsmanship and personalized service to every client.",
+        "localContext": "McKinney features a charming historic downtown area with well-preserved homes. The climate demands durable and energy-efficient solutions for both new and renovated properties.",
+        "nearbyAreas": [
+          "Allen",
+          "Melissa",
+          "Anna"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is pleased to offer our comprehensive general contracting services to the residents and businesses of Arlington, Texas. With a significant number of homes built in the 1960s and 70s, Arlington presents numerous opportunities for renovations and remodels to bring these homes up to modern standards.\n\nWe specialize in kitchen and bathroom remodels, whole-house renovations, and room additions. Our team is familiar with the common construction styles of the era and can provide cost-effective solutions to enhance the functionality and aesthetics of your home. We also understand the importance of energy efficiency and can help you reduce your energy bills while improving the comfort of your home, especially during the hot and humid summers. Girard Contracting and Construction is dedicated to providing quality workmanship and exceptional customer service.",
+        "localContext": "Arlington has a significant number of homes built in the 1960s and 70s, often featuring ranch-style architecture. Energy efficiency is a key concern due to the hot and humid climate.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "As a Fort Worth-based company, Girard Contracting and Construction is deeply committed to serving our local community. From the historic Stockyards to the modern cultural district, we understand the diverse architectural styles and construction needs of Fort Worth. We are your trusted partner for all your general contracting needs.\n\nWe offer a wide range of services, including new home construction, residential remodeling, and commercial construction. Our team is comprised of experienced professionals who are dedicated to providing quality workmanship, transparent communication, and on-time project completion. We are also committed to using sustainable building practices to minimize our impact on the environment. Girard Contracting and Construction is proud to be a part of the Fort Worth community.",
+        "localContext": "Fort Worth boasts a rich history and diverse architectural landscape, from historic buildings to modern developments. Girard Contracting and Construction is proud to be a local company serving the community.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "Saginaw"
+        ]
+      },
+      {
+        "city": "Southlake",
+        "slug": "southlake-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is dedicated to providing exceptional general contracting services to the Southlake community. Known for its luxury homes and upscale living, Southlake demands the highest standards of quality and craftsmanship.\n\nWe specialize in custom home building, high-end renovations, and sophisticated remodeling projects. Our team has extensive experience working with discerning clients and delivering results that exceed expectations. We understand the importance of attention to detail and personalized service, and we are committed to creating spaces that reflect your unique style and vision. From concept to completion, Girard Contracting and Construction is your trusted partner for all your construction needs in Southlake.",
+        "localContext": "Southlake is known for its luxury homes and upscale living, requiring high-quality construction and attention to detail.",
+        "nearbyAreas": [
+          "Keller",
+          "Grapevine",
+          "Colleyville"
+        ]
+      },
+      {
+        "city": "Keller",
+        "slug": "keller-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is proud to offer our comprehensive general contracting services to the residents and businesses of Keller, Texas. With a blend of established neighborhoods and newer developments, Keller presents a variety of construction opportunities.\n\nWe specialize in home renovations, additions, and new construction projects. Our team is experienced in working with a variety of architectural styles and is committed to delivering high-quality workmanship and exceptional customer service. We understand the importance of energy efficiency and sustainable building practices, especially given the hot and humid summers that are typical of the Keller climate. Girard Contracting and Construction will work with you to get the job done right.",
+        "localContext": "Keller features a mix of established and newer homes, requiring versatile construction solutions. The climate necessitates durable and energy-efficient building materials.",
+        "nearbyAreas": [
+          "Southlake",
+          "Watauga",
+          "North Richland Hills"
+        ]
+      },
+      {
+        "city": "Grapevine",
+        "slug": "grapevine-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction extends its expert general contracting services to Grapevine, Texas. Known for its historic downtown and proximity to DFW Airport, Grapevine offers a unique blend of residential and commercial construction opportunities.\n\nWe offer a full range of services, including kitchen and bathroom remodels, whole-house renovations, new construction, and commercial build-outs. Our team is well-versed in the construction styles prevalent in Grapevine and is committed to delivering high-quality workmanship and exceptional customer service. We understand the importance of energy efficiency and sustainable building practices, especially given the hot and humid summers that are typical of the Grapevine climate.",
+        "localContext": "Grapevine is characterized by its historic downtown and proximity to the airport, requiring versatile construction solutions.",
+        "nearbyAreas": [
+          "Euless",
+          "Colleyville",
+          "Coppell"
+        ]
+      },
+      {
+        "city": "Colleyville",
+        "slug": "colleyville-tx",
+        "state": "TX",
+        "content": "Girard Contracting and Construction is delighted to provide general contracting services to the city of Colleyville, Texas. Characterized by its upscale residential areas and commitment to quality, Colleyville offers exciting opportunities for custom building projects.\n\nWe specialize in new home construction, custom home designs, and contemporary remodels. Our team stays up-to-date with the latest building trends and technologies to deliver cutting-edge solutions that meet the needs of Colleyville's discerning homeowners. We also understand the importance of energy efficiency and sustainable building practices, given the hot and humid summers. Girard Contracting and Construction is committed to providing exceptional quality and customer satisfaction.",
+        "localContext": "Colleyville is known for its upscale residential areas, requiring high-quality construction and attention to detail.",
+        "nearbyAreas": [
+          "Southlake",
+          "Grapevine",
+          "Hurst"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Girard Contracting did an amazing job on our kitchen remodel! They completely transformed the space, and it's now the heart of our home. The team was professional, communicative, and paid attention to every detail. We highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roofing Services",
+        "text": "We had some storm damage to our roof, and Girard Contracting was quick to respond and provide a thorough inspection. They explained the repair options clearly and completed the work efficiently. We're very happy with the results.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "Our master bathroom was outdated and cramped. Girard Contracting helped us create a spa-like retreat with a walk-in shower and custom vanity. The project was completed on time and within budget. We couldn't be happier!",
+        "date": "2024-09-20"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Girard Contracting installed new siding on our home, and it looks fantastic! The team was professional, efficient, and meticulous. They paid close attention to detail and ensured that everything was properly sealed and insulated. Our home looks brand new!",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Window Replacement",
+        "text": "We replaced our old, drafty windows with energy-efficient windows from Girard Contracting. The difference is amazing! Our home is much more comfortable, and we've already noticed a decrease in our energy bills. The installation team was professional and courteous.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "General Contractor Services",
+        "text": "Girard Contracting managed our entire home renovation project, and they did an excellent job. From the initial planning to the final walkthrough, they were professional, communicative, and attentive to detail. We highly recommend them for any construction project!",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Girard Contracting | Fort Worth General Contractor",
+        "description": "Trusted Fort Worth contractor for remodeling, roofing, siding, & more. Serving Dallas, Plano, Frisco, McKinney, Arlington, TX. Free quotes!"
+      },
+      "about": {
+        "title": "About Girard Contracting | Fort Worth, TX",
+        "description": "Learn about Girard Contracting's commitment to quality, community, and customer satisfaction. Serving Fort Worth and surrounding areas."
+      },
+      "services": {
+        "title": "Girard Contracting | Services",
+        "description": "Comprehensive contractor services in Fort Worth: kitchen & bath remodeling, roofing, siding, windows, & more. View our services."
+      },
+      "contact": {
+        "title": "Contact Girard Contracting | Fort Worth, TX",
+        "description": "Contact Girard Contracting for free consultation. Serving Fort Worth, Dallas, Plano, Frisco, McKinney, & Arlington"
+      },
+      "reviews": {
+        "title": "Girard Contracting | Customer Reviews",
+        "description": "Read what our satisfied customers are saying about Girard Contracting's services in Fort Worth and surrounding areas. View testimonials."
+      },
+      "service-areas": {
+        "title": "Girard Contracting | Service Areas",
+        "description": "Girard Contracting provides contractor services in Fort Worth, Dallas, Plano, Frisco, McKinney, and Arlington, TX. View service area details."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation": "/images/service-siding-installation.webp",
+      "window-replacement": "/images/service-window-replacement.webp",
+      "general-contractor-services": "/images/service-general-contractor-services.webp",
+      "home-additions": "/images/service-home-additions.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "general-contractor-services": {
+        "src": "/images/service-general-contractor-services.webp",
+        "srcset": "/images/service-general-contractor-services-400w.webp 400w, /images/service-general-contractor-services-800w.webp 800w, /images/service-general-contractor-services-1200w.webp 1200w, /images/service-general-contractor-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-additions": {
+        "src": "/images/service-home-additions.webp",
+        "srcset": "/images/service-home-additions-400w.webp 400w, /images/service-home-additions-800w.webp 800w, /images/service-home-additions-1200w.webp 1200w, /images/service-home-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
